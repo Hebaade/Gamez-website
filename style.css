@@ -1181,7 +1181,7 @@ margin: 20px 0;
 }
 @media(max-width:768px){
     .clock div{
-        width: 70px;
+        width: 65px;
         height: 110px;
     }
 }
@@ -1193,6 +1193,9 @@ margin: 20px 0;
 @media(max-width:768px){
     .clock h3{
         font-size: 25px;
+    }
+    .clock div>p{
+        font-size: 12px;
     }
     #Event{
         margin: 0;
