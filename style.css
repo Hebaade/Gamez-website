@@ -1181,7 +1181,7 @@ margin: 20px 0;
 }
 @media(max-width:768px){
     .clock div{
-        width: 65px;
+        width: 70px;
         height: 110px;
     }
 }
